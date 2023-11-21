@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathanael</h1>
 <h3 align="center">A prospective full-stack SDE from Michigan, USA</h3>
 
-- 🔭 I’m currently working on studying **Leetcode**
+- 🔭 I’m currently working on studying **Point Cloud Tracking**
 
 - 🌱 I’m currently learning **Javascript, React, R**
 
