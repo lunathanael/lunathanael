@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathanael</h1>
 <h3 align="center">A prospective full-stack SDE from Michigan, USA</h3>
 
-- 🔭 I’m currently working on studying **Point Cloud Tracking**
+- 🔭 I’m currently working on studying **Point Cloud Tracking** and **Website Development**.
 
-- 🌱 I’m currently learning **Javascript, React, R**
+- 🌱 I’m currently learning **Next.js, React, libPCL**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
