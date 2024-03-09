@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nathanael</h1>
-<h3 align="center">A prospective full-stack SDE from Michigan, USA</h3>
+<h3 align="center">A prospective SDE from Michigan, USA</h3>
 
-- 🔭 I’m currently working on studying **Point Cloud Tracking** and **Website Development**.
+- 🔭 I’m currently working on **Reinforcement Learning** and **distributed version control systems**.
 
-- 🌱 I’m currently learning **Next.js, React, libPCL**
+- 🌱 I’m currently learning **Polars, Next.js, React**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
-
-- 📫 How to reach me: **lunathan@msu.edu**
+- 📫 How to reach me: **info@lunathanael.dev**
 
 - ⚡ What I like to do: **I love to read, code fun projects, and workout at the gym**
 
@@ -48,4 +46,4 @@
 
 [lunathanael](https://github.com/lunathanael)
 
-Last Edited on: 09/11/2023
+Last Edited on: 3/9/2024
