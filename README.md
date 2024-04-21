@@ -37,13 +37,26 @@
   </a> 
 </p>
 
-<p align= "center">
-  <!-- <img height= "150" src="https://github-readme-stats.vercel.app/api?username=lunathanael&theme=react&show_icons=true&include_all_commits=true" /> -->
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunathanael&theme=react&layout=compact" />
-</p>
+Some Metrics!
+
+<table style="width: 100%; border-collapse: collapse;" border="0">
+  <tr>
+    <!-- LeetCode stats on the left -->
+    <td width="50%" style="border: none; padding: 0;">
+      <img src="https://leetcard.jacoblin.cool/lunathanael?theme=dark&font=Ubuntu%20Mono&ext=contest" style="width: 100%; height: auto; display: block;" />
+    </td>
+    <!-- GitHub stats and most used languages on the right, stacked -->
+    <td width="50%" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=lunathanael" style="width: 100%; height: auto; display: block;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunathanael&theme=react&layout=compact" style="width: 100%; height: auto; display: block;" />
+    </td>
+  </tr>
+</table>
+
+
 
 ------
 
 [lunathanael](https://github.com/lunathanael)
 
-Last Edited on: 3/9/2024
+Last Edited on: 4/12/2024
