@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Nathanael</h1>
-<h3 align="center">A prospective SDE from Michigan, USA</h3>
+<h1 align="center">Hi 👋, I'm Nathanael Lu</h1>
+<h3 align="center">Current CS undergrad from Michigan, USA</h3>
 
 - 🔭 I’m currently working on **Project Management** and **Machine Learning**.
 
-- 🌱 I’m currently learning **Polars, Next.js, React.js**
+- 🌱 I’m currently learning **Polars, Next.js, React.js**.
 
-- 📫 How to reach me: **info@lunathanael.dev**
+- 📫 How to reach me: **[info@lunathanael.dev](mailto:info@lunathanael.dev)**.
 
-- ⚡ What I like to do: **I love to read, code fun projects, and workout at the gym**
+- ⚡ What I like to do: **I love to read, code fun projects, and workout at the gym**.
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -42,7 +42,7 @@ Some Metrics!
 <table style="width: 100%; border-collapse: collapse;" border="0">
   <tr>
     <!-- LeetCode stats on the left -->
-    <td width="50%" style="border: none; padding: 0;">
+    <td width="55%" style="border: none; padding: 0;">
       <img src="https://leetcard.jacoblin.cool/lunathanael?theme=dark&font=Ubuntu%20Mono&ext=contest" style="width: 100%; height: auto; display: block;" />
     </td>
     <!-- GitHub stats and most used languages on the right, stacked -->
@@ -52,8 +52,6 @@ Some Metrics!
     </td>
   </tr>
 </table>
-
-
 
 ------
 
