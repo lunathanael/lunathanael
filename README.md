@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathanael</h1>
 <h3 align="center">A prospective SDE from Michigan, USA</h3>
 
-- 🔭 I’m currently working on **Reinforcement Learning** and **distributed version control systems**.
+- 🔭 I’m currently working on **Project Management** and **Machine Learning**.
 
-- 🌱 I’m currently learning **Polars, Next.js, React**
+- 🌱 I’m currently learning **Polars, Next.js, React.js**
 
 - 📫 How to reach me: **info@lunathanael.dev**
 
