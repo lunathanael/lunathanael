@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Project Management** and **Machine Learning**.
 
-- 🌱 I’m currently learning **Polars, Next.js, React.js**.
+- 🌱 I’m currently learning **Polars, Next.js, React.js**, **Pybind**.
 
 - 📫 How to reach me: **[info@lunathanael.dev](mailto:info@lunathanael.dev)**.
 
@@ -57,4 +57,4 @@ Some Metrics!
 
 [lunathanael](https://github.com/lunathanael)
 
-Last Edited on: 4/21/2024
+Last Edited on: 9/8/2024
