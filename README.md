@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathanael Lu</h1>
+<h1 align="center">Hi, I'm Nathanael Lu</h1>
 <h3 align="center">Current CS undergrad from Michigan, USA</h3>
 
 - 🔭 I’m currently working on **Project Management** and **Machine Learning**.
@@ -57,4 +57,4 @@ Some Metrics!
 
 [lunathanael](https://github.com/lunathanael)
 
-Last Edited on: 9/8/2024
+Last Edited on: 10/19/2024
