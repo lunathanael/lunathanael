@@ -1,14 +1,6 @@
 <h1 align="center">Hi, I'm Nathanael Lu</h1>
 <h3 align="center">Current CS undergrad from Michigan, USA</h3>
 
-- 🔭 I’m currently working on **Project Management** and **Machine Learning**.
-
-- 🌱 I’m currently learning **Polars, Next.js, React.js**, **Pybind**.
-
-- 📫 How to reach me: **[info@lunathanael.dev](mailto:info@lunathanael.dev)**.
-
-- ⚡ What I like to do: **I love to read, code fun projects, and workout at the gym**.
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -57,4 +49,4 @@ Some Metrics!
 
 [lunathanael](https://github.com/lunathanael)
 
-Last Edited on: 10/19/2024
+Last Edited on: 9/30/2025
