@@ -39,7 +39,6 @@ Some Metrics!
     </td>
     <!-- GitHub stats and most used languages on the right, stacked -->
     <td width="50%" style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=lunathanael" style="width: 100%; height: auto; display: block;" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunathanael&theme=react&layout=compact" style="width: 100%; height: auto; display: block;" />
     </td>
   </tr>
