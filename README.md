@@ -21,31 +21,11 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/> 
-  </a> 
 </p>
 
-Some Metrics!
-
-<table style="width: 100%; border-collapse: collapse;" border="0">
-  <tr>
-    <!-- LeetCode stats on the left -->
-    <td width="55%" style="border: none; padding: 0;">
-      <img src="https://leetcard.jacoblin.cool/lunathanael?theme=dark&font=Ubuntu%20Mono&ext=contest" style="width: 100%; height: auto; display: block;" />
-    </td>
-    <!-- GitHub stats and most used languages on the right, stacked -->
-    <td width="50%" style="border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunathanael&theme=react&layout=compact" style="width: 100%; height: auto; display: block;" />
-    </td>
-  </tr>
-</table>
 
 ------
 
 [lunathanael](https://github.com/lunathanael)
 
-Last Edited on: 9/30/2025
+Last Edited on: 1/1/2026
