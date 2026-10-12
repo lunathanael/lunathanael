@@ -1,1 +1,1 @@
-studying c++ and performant systems
+studying statistical learning and systems
